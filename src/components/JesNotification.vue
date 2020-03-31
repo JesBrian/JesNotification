@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'z',
+    name: 'JesNotification',
 
     props: {
       label: {
